@@ -75,17 +75,10 @@ We evaluated model performance using **Mean Absolute Error (MAE)** and **R² Sco
 
 ---
 
-## 🚀 Getting Started
+## 🔗 Live Demo
 
-To run the project locally:
-
-```bash
-git clone https://github.com/yourusername/indonesia-housing-price-analysis.git
-cd indonesia-housing-price-analysis
-pip install -r requirements.txt
+Access the live app here: [Indonesia House Price Predictor](https://indonesia-house-price.streamlit.app/)
 ```
-
-You can then run the model training and evaluation notebook or script in the `notebooks/` or `src/` directory.
 
 ---
 
